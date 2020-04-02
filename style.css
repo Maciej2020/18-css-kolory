@@ -1,0 +1,17 @@
+.kontener{
+    background: orangered;
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.tytul{
+color: blue;
+}
+
+.paragraph-1{
+    color: orange;
+}
+.paragraph-2{
+    color: yellow;
+}
